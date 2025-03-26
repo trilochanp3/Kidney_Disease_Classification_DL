@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 artifacts/*
+echo "research/kidney-CT-Scan-data.zip" >> .gitignore
